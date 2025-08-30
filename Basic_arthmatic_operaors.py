@@ -1,0 +1,8 @@
+a=int(input("enter any positive integer "))
+b=int(input("enter any positive integer "))
+print(a+b)
+print(a-b)
+print(a*b)
+print(a**b)
+print(a//b)
+print(a%b)
