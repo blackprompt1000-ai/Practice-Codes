@@ -1,8 +1,7 @@
 A = []
 n = int(input("Enter number of elements : "))
-for i in range(0, n):
-    ele = int(input("enter element of list"))
-    A.append(ele)
+for i in range(1, n+1):
+    A.append(i)
 E=[]
 O=[]
 for i in range(0,n):
